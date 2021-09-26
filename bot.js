@@ -238,7 +238,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     , MessageType.text);
                             } else {
                                 await conn.sendMessage(conn.user.jid, '*~♥️🕊️______ AVENGER _____🕊️♥️~*' +
-                                    '\n\n*🧞‍♂️ ' + error + '*\n\n Max Error ozivaakkaan Subscribe cheyyu https://youtube.com/channel/UCqpGUmf09cdTHHgHJy8e7oQ'
+                                    '\n\n*🧞‍♂️ ' + error + '*\n\n Max Error ozivaakkaan Subscribe cheyyu https://youtube.com/channel/UCqpGUmf09cdTHHgHJy8e7oQ' + 'AVENGER WHATSAPP GROUP LINK= https://chat.whatsapp.com/Eo11rBO1HLgEUeVdhLdAGr'
                                     , MessageType.text);
                             }
                             if (error.message.includes('URL')) {
