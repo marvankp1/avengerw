@@ -282,7 +282,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('params')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Requested Audio Params_' +
@@ -292,7 +292,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unlink')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _No Such File or Directory_' +
@@ -302,7 +302,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('404')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Error 404 HTTPS_' +
@@ -312,7 +312,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('reply.delete')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
@@ -322,7 +322,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('load.delete')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Reply Delete Function_' +
@@ -332,7 +332,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('400')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Bailyes Action Error_ ' +
@@ -342,7 +342,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('decode')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Cannot Decode Text or Media_' +
