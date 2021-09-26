@@ -352,7 +352,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('unescaped')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Word Character Usage_' +
@@ -362,7 +362,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('conversation')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ HATA ÇÖZÜMLEME [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Hata Okundu!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Ana Hata:* _Deleting Plugin_' +
@@ -372,7 +372,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('conversation')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Deleting Plugin_' +
@@ -382,7 +382,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('split')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Split of Undefined_' +
@@ -392,7 +392,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('SSL')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _SQL Database Error_' +
@@ -402,7 +402,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('Ookla')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Ookla Server Connection_' +
@@ -412,7 +412,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('params')) {
-                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ 𝐏𝐈𝐊𝐀𝐂𝐇𝐔 _____🕊️♥️] ⚕️*' + 
+                                    return await WhatsAsenaCN.sendMessage(WhatsAsenaCN.user.jid, '*⚕️ ERROR ANALYSIS [♥️🕊️______ AVENGER _____🕊️♥️] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '*\n\n Max Error oyvakkan Subscribe cheyyu https://www.youtube.com/channel/UCpGa88rhUFYj-6-LBqBbWKw' +
                                         '\n\n*Main Error:* _Requested Audio Params_' +
