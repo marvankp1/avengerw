@@ -446,8 +446,6 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please wait.')}`);
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '*\n\n Max Error ozivaakkaan Subscribe cheyyu https://youtube.com/channel/UCqpGUmf09cdTHHgHJy8e7oQ' +
-
-' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
                                         '\n*Solution:* _There is no solution for this error. It is not a fatal error._'
                                         , MessageType.text
